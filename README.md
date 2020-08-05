@@ -1,13 +1,25 @@
-Welcome
+# Welcome!
+## Thank you for stopping by my page
+I'm currently working on multiple projects to expand my current skill set.
+It's a constant process that I do to improve and I enjoy coming here to share it.
 
-Thank you for stopping by my page.
-I'm currently working on multiple projects to expand my skill set.
+## Areas of Interest
+My primary field of study is <strong>Cybersecurity</strong>.
+I have recently moved forward in this field by Passing the CEH exam.
 
-My primary field of study is Cybersecurity. I have recently moved forward in this field by Passing the CEH exam.
+I'm also an amature <strong>programmer</strong> and I focus on Machine learning, cybersecurity, and automation.
+I'm familure with:
+<ul>
+  <li>Java</li>
+  <li>Javascript</li>
+  <li>Bash scripting</li>
+  <li>HTML5 and CSS3</li>
+</ul>
 
-I'm also an avid learner of Programming, focusing on Machine learning, cybersecurity, and automation.
+## Other Platforms
+I'm active on Linked In
+I have a YouTube channel where I create instructional videos on the tools that I learn in my studies.
+Please check it out.
 
-I have a youtube chanel where I create instructional videos on tools that I've learned in my studies.
-
-Thank you for stopping by,
+Thank you for stopping by, <br>
 Alex
